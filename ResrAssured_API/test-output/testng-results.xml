@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-31T17:10:48 GMT" name="Default suite" finished-at="2020-01-31T17:10:51 GMT" duration-ms="2531">
+    <groups>
+    </groups>
+    <test started-at="2020-01-31T17:10:48 GMT" name="Default test" finished-at="2020-01-31T17:10:51 GMT" duration-ms="2531">
+      <class name="RestAssuredTests.GETTest">
+        <test-method signature="Getinformation()[pri:0, instance:RestAssuredTests.GETTest@60dcc9fe]" started-at="2020-01-31T17:10:48 GMT" name="Getinformation" finished-at="2020-01-31T17:10:51 GMT" duration-ms="2493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Getinformation -->
+      </class> <!-- RestAssuredTests.GETTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
