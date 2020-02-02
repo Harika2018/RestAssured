@@ -11,9 +11,13 @@ Technologies used:
 
 Java,Eclipse, Maven , TestNG, RestAssured, Hamcrest, JSON,PostMan
 
-Sample API used :
+Sample public API used :
 
 https://reqres.in
+
+Maven Compiler: 1.7
+
+Command to run tests from commandline: mvn test
 
 As reqres.in is one the best public API which is available online
 
